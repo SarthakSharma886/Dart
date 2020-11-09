@@ -1,5 +1,5 @@
-import 'built_in_data_type.dart';
+import '3. string and string interpolation.dart';
 
-void main(List<String> arguments) {
-  printAllDataType();
+void main() {
+  stringFunctions();
 }
