@@ -1,5 +1,5 @@
-import '3. string and string interpolation.dart';
+import '4. final and const.dart';
 
 void main() {
-  stringFunctions();
+  finalFunctionality();
 }
