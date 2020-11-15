@@ -1,5 +1,5 @@
-import '6.  control statements.dart';
+import '7.  Loops.dart';
 
 void main() {
-  controlStatements();
+  playWithLoops();
 }
