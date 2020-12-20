@@ -1,5 +1,5 @@
-import '7.  Loops.dart';
+import '8. Functions.dart';
 
 void main() {
-  playWithLoops();
+  playWithFunctions();
 }
