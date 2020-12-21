@@ -1,5 +1,5 @@
-import '8. Functions.dart';
+import '9. Exceptions.dart';
 
 void main() {
-  playWithFunctions();
+  funWithExceptions();
 }
