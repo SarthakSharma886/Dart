@@ -1,5 +1,5 @@
-import '11. inheritance.dart';
+import '12. Lambda and highorder functions.dart';
 
 void main() {
-  exploreInheritance();
+  exploreLambdasAndHighOrderFunc();
 }
